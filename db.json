@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "a new burger!!!",
+      "description": "lvkuyluyc",
+      "image": "",
+      "id": 12
+    },
+    {
+      "name": "Yet another Burger!",
+      "description": "saiuvsiilasbvfd",
+      "image": "",
+      "id": 13
     }
   ]
 }
